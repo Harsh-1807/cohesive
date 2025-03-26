@@ -1,0 +1,278 @@
+2025-03-26 11:43:56,110 - main_script - INFO - Starting lead generation process at 2025-03-26 11:43:56
+2025-03-26 11:43:57,263 - main_script - INFO - Found 5 search results
+2025-03-26 11:43:57,264 - main_script - INFO - Processing company: Built In San Francisco: San Francisco Bay Area Tech & Startups
+2025-03-26 11:43:59,972 - main_script - INFO - Email john.smith@www.builtinsf.com verification: {'email': 'john.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:43:59,993 - main_script - INFO - Email johnsmith@www.builtinsf.com verification: {'email': 'johnsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,086 - main_script - INFO - Email john_smith@www.builtinsf.com verification: {'email': 'john_smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,105 - main_script - INFO - Email jsmith@www.builtinsf.com verification: {'email': 'jsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,136 - main_script - INFO - Email j.smith@www.builtinsf.com verification: {'email': 'j.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,162 - main_script - INFO - Email john@www.builtinsf.com verification: {'email': 'john@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,183 - main_script - INFO - Email emily.johnson@www.builtinsf.com verification: {'email': 'emily.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,223 - main_script - INFO - Email emilyjohnson@www.builtinsf.com verification: {'email': 'emilyjohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,249 - main_script - INFO - Email emily_johnson@www.builtinsf.com verification: {'email': 'emily_johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,274 - main_script - INFO - Email ejohnson@www.builtinsf.com verification: {'email': 'ejohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,301 - main_script - INFO - Email e.johnson@www.builtinsf.com verification: {'email': 'e.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,324 - main_script - INFO - Email emily@www.builtinsf.com verification: {'email': 'emily@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,357 - main_script - INFO - Email michael.brown@www.builtinsf.com verification: {'email': 'michael.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,379 - main_script - INFO - Email michaelbrown@www.builtinsf.com verification: {'email': 'michaelbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,401 - main_script - INFO - Email michael_brown@www.builtinsf.com verification: {'email': 'michael_brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,427 - main_script - INFO - Email mbrown@www.builtinsf.com verification: {'email': 'mbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,455 - main_script - INFO - Email m.brown@www.builtinsf.com verification: {'email': 'm.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:00,480 - main_script - INFO - Email michael@www.builtinsf.com verification: {'email': 'michael@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:01,707 - main_script - INFO - Processing company: 32 Fastest Growing Startups In San Francisco—Hiring Now ...
+2025-03-26 11:44:04,700 - main_script - INFO - Email john.smith@wellfound.com verification: {'email': 'john.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:05,515 - main_script - INFO - Email johnsmith@wellfound.com verification: {'email': 'johnsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:06,441 - main_script - INFO - Email john_smith@wellfound.com verification: {'email': 'john_smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:07,494 - main_script - INFO - Email jsmith@wellfound.com verification: {'email': 'jsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:08,342 - main_script - INFO - Email j.smith@wellfound.com verification: {'email': 'j.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:09,236 - main_script - INFO - Email john@wellfound.com verification: {'email': 'john@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:10,113 - main_script - INFO - Email emily.johnson@wellfound.com verification: {'email': 'emily.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:10,907 - main_script - INFO - Email emilyjohnson@wellfound.com verification: {'email': 'emilyjohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:11,832 - main_script - INFO - Email emily_johnson@wellfound.com verification: {'email': 'emily_johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:13,233 - main_script - INFO - Email ejohnson@wellfound.com verification: {'email': 'ejohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:14,262 - main_script - INFO - Email e.johnson@wellfound.com verification: {'email': 'e.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:15,206 - main_script - INFO - Email emily@wellfound.com verification: {'email': 'emily@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:16,348 - main_script - INFO - Email michael.brown@wellfound.com verification: {'email': 'michael.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:17,143 - main_script - INFO - Email michaelbrown@wellfound.com verification: {'email': 'michaelbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:17,919 - main_script - INFO - Email michael_brown@wellfound.com verification: {'email': 'michael_brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:18,983 - main_script - INFO - Email mbrown@wellfound.com verification: {'email': 'mbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:19,774 - main_script - INFO - Email m.brown@wellfound.com verification: {'email': 'm.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:20,885 - main_script - INFO - Email michael@wellfound.com verification: {'email': 'michael@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:44:22,750 - main_script - INFO - Processing company: San Francisco Is Still Startup Central : r/sanfrancisco
+2025-03-26 11:44:25,029 - main_script - INFO - Email john.smith@www.reddit.com verification: {'email': 'john.smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,057 - main_script - INFO - Email johnsmith@www.reddit.com verification: {'email': 'johnsmith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,080 - main_script - INFO - Email john_smith@www.reddit.com verification: {'email': 'john_smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,114 - main_script - INFO - Email jsmith@www.reddit.com verification: {'email': 'jsmith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,141 - main_script - INFO - Email j.smith@www.reddit.com verification: {'email': 'j.smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,161 - main_script - INFO - Email john@www.reddit.com verification: {'email': 'john@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,191 - main_script - INFO - Email emily.johnson@www.reddit.com verification: {'email': 'emily.johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,214 - main_script - INFO - Email emilyjohnson@www.reddit.com verification: {'email': 'emilyjohnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,238 - main_script - INFO - Email emily_johnson@www.reddit.com verification: {'email': 'emily_johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,263 - main_script - INFO - Email ejohnson@www.reddit.com verification: {'email': 'ejohnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,280 - main_script - INFO - Email e.johnson@www.reddit.com verification: {'email': 'e.johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,308 - main_script - INFO - Email emily@www.reddit.com verification: {'email': 'emily@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,336 - main_script - INFO - Email michael.brown@www.reddit.com verification: {'email': 'michael.brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,367 - main_script - INFO - Email michaelbrown@www.reddit.com verification: {'email': 'michaelbrown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,395 - main_script - INFO - Email michael_brown@www.reddit.com verification: {'email': 'michael_brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,416 - main_script - INFO - Email mbrown@www.reddit.com verification: {'email': 'mbrown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,436 - main_script - INFO - Email m.brown@www.reddit.com verification: {'email': 'm.brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:25,461 - main_script - INFO - Email michael@www.reddit.com verification: {'email': 'michael@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:28,271 - main_script - INFO - Processing company: 56 Top Silicon Valley Startups | Built In San Francisco
+2025-03-26 11:44:30,367 - main_script - INFO - Email john.smith@www.builtinsf.com verification: {'email': 'john.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,388 - main_script - INFO - Email johnsmith@www.builtinsf.com verification: {'email': 'johnsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,405 - main_script - INFO - Email john_smith@www.builtinsf.com verification: {'email': 'john_smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,424 - main_script - INFO - Email jsmith@www.builtinsf.com verification: {'email': 'jsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,446 - main_script - INFO - Email j.smith@www.builtinsf.com verification: {'email': 'j.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,471 - main_script - INFO - Email john@www.builtinsf.com verification: {'email': 'john@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,496 - main_script - INFO - Email emily.johnson@www.builtinsf.com verification: {'email': 'emily.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,518 - main_script - INFO - Email emilyjohnson@www.builtinsf.com verification: {'email': 'emilyjohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,544 - main_script - INFO - Email emily_johnson@www.builtinsf.com verification: {'email': 'emily_johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,571 - main_script - INFO - Email ejohnson@www.builtinsf.com verification: {'email': 'ejohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,593 - main_script - INFO - Email e.johnson@www.builtinsf.com verification: {'email': 'e.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,619 - main_script - INFO - Email emily@www.builtinsf.com verification: {'email': 'emily@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,643 - main_script - INFO - Email michael.brown@www.builtinsf.com verification: {'email': 'michael.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,666 - main_script - INFO - Email michaelbrown@www.builtinsf.com verification: {'email': 'michaelbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,684 - main_script - INFO - Email michael_brown@www.builtinsf.com verification: {'email': 'michael_brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,709 - main_script - INFO - Email mbrown@www.builtinsf.com verification: {'email': 'mbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,732 - main_script - INFO - Email m.brown@www.builtinsf.com verification: {'email': 'm.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:30,754 - main_script - INFO - Email michael@www.builtinsf.com verification: {'email': 'michael@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:32,640 - main_script - INFO - Processing company: Y Combinator Startups in the San Francisco Bay Area 2025 | Y ...
+2025-03-26 11:44:34,971 - main_script - INFO - Email john.smith@www.ycombinator.com verification: {'email': 'john.smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,008 - main_script - INFO - Email johnsmith@www.ycombinator.com verification: {'email': 'johnsmith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,058 - main_script - INFO - Email john_smith@www.ycombinator.com verification: {'email': 'john_smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,076 - main_script - INFO - Email jsmith@www.ycombinator.com verification: {'email': 'jsmith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,106 - main_script - INFO - Email j.smith@www.ycombinator.com verification: {'email': 'j.smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,128 - main_script - INFO - Email john@www.ycombinator.com verification: {'email': 'john@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,153 - main_script - INFO - Email emily.johnson@www.ycombinator.com verification: {'email': 'emily.johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,175 - main_script - INFO - Email emilyjohnson@www.ycombinator.com verification: {'email': 'emilyjohnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,195 - main_script - INFO - Email emily_johnson@www.ycombinator.com verification: {'email': 'emily_johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,222 - main_script - INFO - Email ejohnson@www.ycombinator.com verification: {'email': 'ejohnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,246 - main_script - INFO - Email e.johnson@www.ycombinator.com verification: {'email': 'e.johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,282 - main_script - INFO - Email emily@www.ycombinator.com verification: {'email': 'emily@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,306 - main_script - INFO - Email michael.brown@www.ycombinator.com verification: {'email': 'michael.brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,331 - main_script - INFO - Email michaelbrown@www.ycombinator.com verification: {'email': 'michaelbrown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,353 - main_script - INFO - Email michael_brown@www.ycombinator.com verification: {'email': 'michael_brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,381 - main_script - INFO - Email mbrown@www.ycombinator.com verification: {'email': 'mbrown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,406 - main_script - INFO - Email m.brown@www.ycombinator.com verification: {'email': 'm.brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:35,428 - main_script - INFO - Email michael@www.ycombinator.com verification: {'email': 'michael@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:44:41,502 - main_script - INFO - Leads exported to Google Sheets. Spreadsheet ID: 1YC98JvEw0ayR4yYl406BWzbEyAruUk_VjAoVYYEzxHw
+2025-03-26 11:56:04,475 - main_script - INFO - Starting lead generation process at 2025-03-26 11:56:04
+2025-03-26 11:56:05,620 - main_script - INFO - Found 5 search results
+2025-03-26 11:56:05,621 - main_script - INFO - Processing company: Built In San Francisco: San Francisco Bay Area Tech & Startups
+2025-03-26 11:56:05,621 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 11:56:08,531 - main_script - INFO - Email john.smith@www.builtinsf.com verification: {'email': 'john.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,550 - main_script - INFO - Email johnsmith@www.builtinsf.com verification: {'email': 'johnsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,573 - main_script - INFO - Email john_smith@www.builtinsf.com verification: {'email': 'john_smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,590 - main_script - INFO - Email jsmith@www.builtinsf.com verification: {'email': 'jsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,628 - main_script - INFO - Email j.smith@www.builtinsf.com verification: {'email': 'j.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,668 - main_script - INFO - Email john@www.builtinsf.com verification: {'email': 'john@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,687 - main_script - INFO - Email emily.johnson@www.builtinsf.com verification: {'email': 'emily.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,725 - main_script - INFO - Email emilyjohnson@www.builtinsf.com verification: {'email': 'emilyjohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,753 - main_script - INFO - Email emily_johnson@www.builtinsf.com verification: {'email': 'emily_johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,798 - main_script - INFO - Email ejohnson@www.builtinsf.com verification: {'email': 'ejohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,899 - main_script - INFO - Email e.johnson@www.builtinsf.com verification: {'email': 'e.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,923 - main_script - INFO - Email emily@www.builtinsf.com verification: {'email': 'emily@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,959 - main_script - INFO - Email michael.brown@www.builtinsf.com verification: {'email': 'michael.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:08,980 - main_script - INFO - Email michaelbrown@www.builtinsf.com verification: {'email': 'michaelbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:09,002 - main_script - INFO - Email michael_brown@www.builtinsf.com verification: {'email': 'michael_brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:09,027 - main_script - INFO - Email mbrown@www.builtinsf.com verification: {'email': 'mbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:09,051 - main_script - INFO - Email m.brown@www.builtinsf.com verification: {'email': 'm.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:09,081 - main_script - INFO - Email michael@www.builtinsf.com verification: {'email': 'michael@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:10,743 - main_script - INFO - Processing company: 32 Fastest Growing Startups In San Francisco—Hiring Now ...
+2025-03-26 11:56:10,743 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 11:56:13,802 - main_script - INFO - Email john.smith@wellfound.com verification: {'email': 'john.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:14,543 - main_script - INFO - Email johnsmith@wellfound.com verification: {'email': 'johnsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:15,421 - main_script - INFO - Email john_smith@wellfound.com verification: {'email': 'john_smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:16,224 - main_script - INFO - Email jsmith@wellfound.com verification: {'email': 'jsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:17,086 - main_script - INFO - Email j.smith@wellfound.com verification: {'email': 'j.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:18,088 - main_script - INFO - Email john@wellfound.com verification: {'email': 'john@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:19,171 - main_script - INFO - Email emily.johnson@wellfound.com verification: {'email': 'emily.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:20,210 - main_script - INFO - Email emilyjohnson@wellfound.com verification: {'email': 'emilyjohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:21,029 - main_script - INFO - Email emily_johnson@wellfound.com verification: {'email': 'emily_johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:21,997 - main_script - INFO - Email ejohnson@wellfound.com verification: {'email': 'ejohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:22,411 - main_script - INFO - Email e.johnson@wellfound.com verification: {'email': 'e.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:23,152 - main_script - INFO - Email emily@wellfound.com verification: {'email': 'emily@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:24,261 - main_script - INFO - Email michael.brown@wellfound.com verification: {'email': 'michael.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:25,244 - main_script - INFO - Email michaelbrown@wellfound.com verification: {'email': 'michaelbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:26,121 - main_script - INFO - Email michael_brown@wellfound.com verification: {'email': 'michael_brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:26,928 - main_script - INFO - Email mbrown@wellfound.com verification: {'email': 'mbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:27,719 - main_script - INFO - Email m.brown@wellfound.com verification: {'email': 'm.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:28,535 - main_script - INFO - Email michael@wellfound.com verification: {'email': 'michael@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 11:56:29,371 - main_script - INFO - Processing company: San Francisco Is Still Startup Central : r/sanfrancisco
+2025-03-26 11:56:29,371 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 11:56:31,682 - main_script - INFO - Email john.smith@www.reddit.com verification: {'email': 'john.smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,704 - main_script - INFO - Email johnsmith@www.reddit.com verification: {'email': 'johnsmith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,727 - main_script - INFO - Email john_smith@www.reddit.com verification: {'email': 'john_smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,754 - main_script - INFO - Email jsmith@www.reddit.com verification: {'email': 'jsmith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,778 - main_script - INFO - Email j.smith@www.reddit.com verification: {'email': 'j.smith@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,802 - main_script - INFO - Email john@www.reddit.com verification: {'email': 'john@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,821 - main_script - INFO - Email emily.johnson@www.reddit.com verification: {'email': 'emily.johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,847 - main_script - INFO - Email emilyjohnson@www.reddit.com verification: {'email': 'emilyjohnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,872 - main_script - INFO - Email emily_johnson@www.reddit.com verification: {'email': 'emily_johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,896 - main_script - INFO - Email ejohnson@www.reddit.com verification: {'email': 'ejohnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,920 - main_script - INFO - Email e.johnson@www.reddit.com verification: {'email': 'e.johnson@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,942 - main_script - INFO - Email emily@www.reddit.com verification: {'email': 'emily@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,967 - main_script - INFO - Email michael.brown@www.reddit.com verification: {'email': 'michael.brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:31,988 - main_script - INFO - Email michaelbrown@www.reddit.com verification: {'email': 'michaelbrown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:32,016 - main_script - INFO - Email michael_brown@www.reddit.com verification: {'email': 'michael_brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:32,044 - main_script - INFO - Email mbrown@www.reddit.com verification: {'email': 'mbrown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:32,068 - main_script - INFO - Email m.brown@www.reddit.com verification: {'email': 'm.brown@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:32,094 - main_script - INFO - Email michael@www.reddit.com verification: {'email': 'michael@www.reddit.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:34,037 - main_script - INFO - Processing company: 56 Top Silicon Valley Startups | Built In San Francisco
+2025-03-26 11:56:34,037 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 11:56:36,325 - main_script - INFO - Email john.smith@www.builtinsf.com verification: {'email': 'john.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,347 - main_script - INFO - Email johnsmith@www.builtinsf.com verification: {'email': 'johnsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,370 - main_script - INFO - Email john_smith@www.builtinsf.com verification: {'email': 'john_smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,394 - main_script - INFO - Email jsmith@www.builtinsf.com verification: {'email': 'jsmith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,414 - main_script - INFO - Email j.smith@www.builtinsf.com verification: {'email': 'j.smith@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,438 - main_script - INFO - Email john@www.builtinsf.com verification: {'email': 'john@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,499 - main_script - INFO - Email emily.johnson@www.builtinsf.com verification: {'email': 'emily.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,606 - main_script - INFO - Email emilyjohnson@www.builtinsf.com verification: {'email': 'emilyjohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,637 - main_script - INFO - Email emily_johnson@www.builtinsf.com verification: {'email': 'emily_johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,663 - main_script - INFO - Email ejohnson@www.builtinsf.com verification: {'email': 'ejohnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,682 - main_script - INFO - Email e.johnson@www.builtinsf.com verification: {'email': 'e.johnson@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,711 - main_script - INFO - Email emily@www.builtinsf.com verification: {'email': 'emily@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,736 - main_script - INFO - Email michael.brown@www.builtinsf.com verification: {'email': 'michael.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,757 - main_script - INFO - Email michaelbrown@www.builtinsf.com verification: {'email': 'michaelbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,780 - main_script - INFO - Email michael_brown@www.builtinsf.com verification: {'email': 'michael_brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,801 - main_script - INFO - Email mbrown@www.builtinsf.com verification: {'email': 'mbrown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,837 - main_script - INFO - Email m.brown@www.builtinsf.com verification: {'email': 'm.brown@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:36,866 - main_script - INFO - Email michael@www.builtinsf.com verification: {'email': 'michael@www.builtinsf.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:37,981 - main_script - INFO - Processing company: Y Combinator Startups in the San Francisco Bay Area 2025 | Y ...
+2025-03-26 11:56:37,982 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 11:56:40,091 - main_script - INFO - Email john.smith@www.ycombinator.com verification: {'email': 'john.smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,125 - main_script - INFO - Email johnsmith@www.ycombinator.com verification: {'email': 'johnsmith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,148 - main_script - INFO - Email john_smith@www.ycombinator.com verification: {'email': 'john_smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,170 - main_script - INFO - Email jsmith@www.ycombinator.com verification: {'email': 'jsmith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,198 - main_script - INFO - Email j.smith@www.ycombinator.com verification: {'email': 'j.smith@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,277 - main_script - INFO - Email john@www.ycombinator.com verification: {'email': 'john@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,301 - main_script - INFO - Email emily.johnson@www.ycombinator.com verification: {'email': 'emily.johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,323 - main_script - INFO - Email emilyjohnson@www.ycombinator.com verification: {'email': 'emilyjohnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,344 - main_script - INFO - Email emily_johnson@www.ycombinator.com verification: {'email': 'emily_johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,369 - main_script - INFO - Email ejohnson@www.ycombinator.com verification: {'email': 'ejohnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,391 - main_script - INFO - Email e.johnson@www.ycombinator.com verification: {'email': 'e.johnson@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,414 - main_script - INFO - Email emily@www.ycombinator.com verification: {'email': 'emily@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,443 - main_script - INFO - Email michael.brown@www.ycombinator.com verification: {'email': 'michael.brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,467 - main_script - INFO - Email michaelbrown@www.ycombinator.com verification: {'email': 'michaelbrown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,487 - main_script - INFO - Email michael_brown@www.ycombinator.com verification: {'email': 'michael_brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,506 - main_script - INFO - Email mbrown@www.ycombinator.com verification: {'email': 'mbrown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,529 - main_script - INFO - Email m.brown@www.ycombinator.com verification: {'email': 'm.brown@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:40,552 - main_script - INFO - Email michael@www.ycombinator.com verification: {'email': 'michael@www.ycombinator.com', 'valid_format': False, 'domain_valid': False, 'verification_status': 'Invalid', 'verification_score': 'N/A'}
+2025-03-26 11:56:45,949 - main_script - INFO - Leads exported to Google Sheets. Spreadsheet ID: 1KXqX2fgDQ6u8jlncyb21k92BHiV7PPT6KIMY1Bo7igw
+2025-03-26 12:16:23,090 - main_script - INFO - Starting lead generation process at 2025-03-26 12:16:23
+2025-03-26 12:16:24,034 - main_script - INFO - Found 1 search results
+2025-03-26 12:16:24,035 - main_script - INFO - Processing company: Best Tech Companies and Startups in Mumbai, India 2025 | Wellfound
+2025-03-26 12:16:24,035 - main_script - ERROR - AI Description Generation Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 12:16:27,965 - main_script - INFO - Email john.smith@wellfound.com verification: {'email': 'john.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:29,022 - main_script - INFO - Email johnsmith@wellfound.com verification: {'email': 'johnsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:29,972 - main_script - INFO - Email john_smith@wellfound.com verification: {'email': 'john_smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:30,991 - main_script - INFO - Email jsmith@wellfound.com verification: {'email': 'jsmith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:31,775 - main_script - INFO - Email j.smith@wellfound.com verification: {'email': 'j.smith@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:32,818 - main_script - INFO - Email john@wellfound.com verification: {'email': 'john@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:34,048 - main_script - INFO - Email emily.johnson@wellfound.com verification: {'email': 'emily.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:34,848 - main_script - INFO - Email emilyjohnson@wellfound.com verification: {'email': 'emilyjohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:35,999 - main_script - INFO - Email emily_johnson@wellfound.com verification: {'email': 'emily_johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:36,744 - main_script - INFO - Email ejohnson@wellfound.com verification: {'email': 'ejohnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:37,239 - main_script - INFO - Email e.johnson@wellfound.com verification: {'email': 'e.johnson@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:38,230 - main_script - INFO - Email emily@wellfound.com verification: {'email': 'emily@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:39,290 - main_script - INFO - Email michael.brown@wellfound.com verification: {'email': 'michael.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:40,297 - main_script - INFO - Email michaelbrown@wellfound.com verification: {'email': 'michaelbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:41,379 - main_script - INFO - Email michael_brown@wellfound.com verification: {'email': 'michael_brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:42,120 - main_script - INFO - Email mbrown@wellfound.com verification: {'email': 'mbrown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:43,239 - main_script - INFO - Email m.brown@wellfound.com verification: {'email': 'm.brown@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:44,231 - main_script - INFO - Email michael@wellfound.com verification: {'email': 'michael@wellfound.com', 'valid_format': True, 'domain_valid': True, 'verification_status': 'unknown', 'verification_score': 0}
+2025-03-26 12:16:50,176 - main_script - INFO - Leads exported to Google Sheets. Spreadsheet ID: 1OZ9FvrtKdNHL_BNadZ-QggaQJIhulK2kO97Z19PXkT8

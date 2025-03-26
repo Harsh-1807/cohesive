@@ -1,0 +1,36 @@
+# Core Python Libraries
+requests
+beautifulsoup4
+python-dotenv
+numpy  # Pinned to a more compatible version
+pandas # Use an earlier version
+
+# Web Scraping
+selenium
+webdriver-manager
+
+# API Interactions
+openai
+
+# Optional: Hunter.io (comment out if not using)
+# hunter-io==1.0.0
+
+# Email Validation
+email-validator
+
+# Google Integrations
+google-api-python-client==2.123.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Logging and Utilities
+rich==13.7.1
+tqdm==4.66.2
+
+# Development and Testing
+pytest==8.0.2
+flake8==7.0.0
+black==24.3.0
+
+# Optional: For more advanced web scraping
+undetected-chromedriver==3.5.4
